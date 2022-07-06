@@ -4,3 +4,5 @@
 # US Presidents Data Cleaning 
 ![US Presidents Data Cleaning](https://user-images.githubusercontent.com/70010985/177132116-272ea5b8-1698-4937-9328-e38784dbbc8b.JPG)
 
+# SUM Function
+![SumFunction](https://user-images.githubusercontent.com/70010985/177553764-0719c81a-5cab-4c64-810c-487237875439.JPG)
